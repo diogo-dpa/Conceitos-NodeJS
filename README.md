@@ -1,4 +1,4 @@
-# 📕 Conceitos-NodeJS
+# 📕 Conceitos Node JS
 Código desenvolvido a partir de um template disponibilizado pela Rocketseat durante o Bootcamp GoStack.
 ## Objetivo
 Praticar os conceitos de NodeJS ensinados nas aulas do 1º módulo do curso.
